@@ -4,14 +4,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "48459439078"
-global.ownername = "Toxxic Md"
+global.ownernomer = "4917528216499"
+global.ownername = "Avast"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
+global.ownernumber = '4917528216499'  //creator number
+global.ownername = 'Avast' //owner name
 global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
 
 //sticker details
